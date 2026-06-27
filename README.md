@@ -39,6 +39,51 @@ Dentro do diretório Back-end:
 npm install
 node app.js
 ```
+### 📖 Guia de pastas
+
+├── 📂 back <br>
+│ㅤㅤ└── 📂 doc **SWAGGER** <br>
+│ㅤㅤ│<br>
+│ㅤㅤ└── 📂 src    <br>
+│ㅤㅤ│ㅤㅤ└── 📂 controller <br>
+│ㅤㅤ│ㅤㅤ└── 📂 database <br>
+│ㅤㅤ│ㅤㅤ└── 📂 model <br>
+│ㅤㅤ│ㅤㅤ└── 📂 routes <br>
+│ㅤㅤ│ㅤㅤ└── 📄 app.js <br>
+│ㅤㅤ│<br>
+│ㅤㅤ└── 📄 .gitignore    <br>
+│ㅤㅤ└── 📄 knexfile.js    <br>
+│ㅤㅤ└── 📄 package-lock.json    <br>
+│ㅤㅤ└── 📄 package.json    <br>
+│<br>
+├── 📂 banco <br>
+│ㅤㅤ└── 📂 diagramas <br>
+│ㅤㅤ└── 📂 scripts <br>
+│<br>
+└── 📂 doc <br>
+│ㅤㅤ└── 📂 prototipo-figma<br>
+│ㅤㅤ└── 📄 TAP.docx <br>
+│ㅤㅤ└── 📄 requisitos-funcionais.docx    <br>
+│ㅤㅤ└── 📄 requisitos-não-funcionais.docx    <br>
+│ㅤㅤ└── 📄 requisitos-do-projeto.docx    <br>
+│<br>
+└── 📂 front <br>
+│ㅤㅤ└── 📂 public<br>
+│ㅤㅤ└── 📂 src<br>
+│ㅤㅤ│ㅤㅤ└── 📂 assets <br>
+│ㅤㅤ│ㅤㅤ└── 📂 components <br>
+│ㅤㅤ│ㅤㅤ└── 📂 pages <br>
+│ㅤㅤ│ㅤㅤ└── 📂 routes <br>
+│ㅤㅤ│ㅤㅤ└── 📄 App.jsx <br>
+│ㅤㅤ│ㅤㅤ└── 📄 index.css <br>
+│ㅤㅤ│ㅤㅤ└── 📄 main.jsx <br>
+│ㅤㅤ│ <br>
+│ㅤㅤ└── 📄 .gitignore    <br>
+│ㅤㅤ└── 📄 eslint.config.js    <br>
+│ㅤㅤ└── 📄 index.html    <br>
+│ㅤㅤ└── 📄 package-lock.json    <br>
+│ㅤㅤ└── 📄 package.json    <br>
+│ㅤㅤ└── 📄 vite.config.js    <br>
 
 ## ✅ Daily
 
