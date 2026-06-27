@@ -40,6 +40,24 @@ npm install
 node app.js
 ```
 
+## ✅ Daily
+
+As dailys do projeto estão sendo organizadas dentro das ISSUES:
+
+PADRÃO DE DAILY (Copie, Cole, Corrija)
+```
+**DAILY 26/06/2026**
+
+O que eu fiz? <br>
+Tivemos uma reunião, onde discutiamos o inicio do projeto
+
+Estou precisando de ajuda com... <br>
+N/A
+
+O que vou fazer **HOJE**: <br>
+Construir o design da plataforma como pede a ISSUE
+```
+
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
