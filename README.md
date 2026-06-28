@@ -1,12 +1,13 @@
 # IANES
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+### 📊 Estatísticas do Repositório
 
-<img src="imagem.png" alt="Exemplo imagem">
+![Repo Size](https://img.shields.io/github/repo-size/Nidus-projects/IANES?style=for-the-badge&labelColor=555555&color=007ec6)
+![Languages](https://img.shields.io/github/languages/count/Nidus-projects/IANES?style=for-the-badge&labelColor=555555&color=007ec6)
+![Forks](https://img.shields.io/github/forks/Nidus-projects/IANES?style=for-the-badge&labelColor=555555&color=007ec6)
+![Issues](https://img.shields.io/github/issues/Nidus-projects/IANES?style=for-the-badge&labelColor=555555&color=e05d44)
+![Pull Requests](https://img.shields.io/github/issues-pr/Nidus-projects/IANES?style=for-the-badge&labelColor=555555&color=e05d44)
+<img src="./img/example-system.png" alt="Exemplo imagem">
 
 > Sistema de gestão para a loja de doces da Srta. IANES.
 
