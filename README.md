@@ -7,7 +7,7 @@
 ![Forks](https://img.shields.io/github/forks/Nidus-projects/IANES?style=for-the-badge&labelColor=555555&color=007ec6)
 ![Issues](https://img.shields.io/github/issues/Nidus-projects/IANES?style=for-the-badge&labelColor=555555&color=e05d44)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Nidus-projects/IANES?style=for-the-badge&labelColor=555555&color=e05d44)
-<img src="./img/example-system.png" alt="Exemplo imagem">
+<img src="./img/icon.png" alt="Exemplo imagem">
 
 > Sistema de gestão para a loja de doces da Srta. IANES.
 
