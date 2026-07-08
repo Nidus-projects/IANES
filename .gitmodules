@@ -1,3 +1,6 @@
 [submodule "IANES-BD"]
 	path = IANES-BD
 	url = https://github.com/GabrielPKTN/IANES-BD
+[submodule "IANES-FRONT"]
+	path = IANES-FRONT
+	url = https://github.com/GabrielPKTN/IANES-FRONT
